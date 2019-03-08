@@ -8,8 +8,8 @@ my software you can donate at: https://github.nated.xyz/donate/
 
 Features
 ===============
-* permanetly stores link
-* creates a cutom link from form input 
+* permanently stores link
+* creates a custom link from form input 
 * easy configuration in the 'config.php' file
 * less than 10Kb
 * Fast Execution
@@ -17,9 +17,9 @@ Features
 under the "Does the Exist?" Tab
 * Simple Customization
 
-Install Images
-==============
-* IMPORTANT STEPS 
+Installation Instructions
+============================
+IMPORTANT STEPS 
 * Create an 'analytics' and 'urls' folder in the home directory. With permissions 0777
 * Create a Database and Execute the 'database.sql' command
 * Update the db.php File Details as shown Below:
@@ -40,3 +40,4 @@ License
 ==========
 This software is under an MIT License. Which allows full use to edit, distribute, or sell this code.
 See the "LICENSE" file for more information!
+
