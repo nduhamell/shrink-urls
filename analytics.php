@@ -37,7 +37,7 @@ echo "$url";
 ?><b>/ENTER_THIS_PART</b></p>
 <form action="submit-analytics.php" method="POST">
     <input id="url" name="url" type="text" placeholder="Custom Text">
-    <button type="submit" value="submit">View Analytics</button>
+    <button type="submit" value="submit">View Information</button>
 </form>
 <br>
 <br>

@@ -65,10 +65,15 @@ include 'inc/nav.php';
 echo "<br><br>";
 }
 } else {
-echo $dirPath . " Your link was Not Submitted. There was a Problem";
+include 'inc/nav.php';
+echo "<br>";
+echo "<div style='margin-left:5%;'>";
+echo $dirPath . " The URL Already Exists. Try a different Extension. To View";
+echo " where the URL currently leads click under 'Requested URL Header' Below";
+echo "</div>";
 }
 require 'config.php';
-            echo "<h1 style='padding-left:5%;'>Here's your URL:</h1>";
+            echo "<h1 style='padding-left:5%;'>Requested URL:</h1>";
                 echo "<p style='padding-left:5%;'>URL: <a href='$url/urls/".$entry."' alt='Shortened Link'>"
                 ;echo "$url/urls/".$entry."</a></p>";
 echo "<br><br>";
