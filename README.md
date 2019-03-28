@@ -1,3 +1,7 @@
+Version 1.2 Available
+===========================
+Go to the "Versions" Tab Above to get the latest Version
+
 Shrink URL Link Shortener
 ===========================
 A Robust Link Shortener built with HTML, PHP, and MySQL. This application is ready to deploy by
