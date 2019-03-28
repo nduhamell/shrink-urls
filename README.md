@@ -1,6 +1,6 @@
 Version 1.2 Available
 ===========================
-Go to the "Versions" Tab Above to get the latest Version
+Go to the "release" Tab Above to get the latest Version
 
 Shrink URL Link Shortener
 ===========================
