@@ -7,8 +7,11 @@ Shrink URL Link Shortener
 A Robust Link Shortener built with HTML, PHP, and MySQL. This application is ready to deploy by
 itself and requires no dependencies. At around 10Kb and a minimal file count Shrink URLs will allow
 anyone to deploy a link shortener today. Check out a working demo at https://nate.pro
-I enjoy making software so much! Please, if you see any issues make them known! If you especially love
-my software you can donate at: https://github.nated.xyz/donate/
+I enjoy making software so much! Please, if you see any issues make them known! 
+
+Documentation
+==============
+https://nateduhamell.com/github-project-shrink-urls/
 
 Features
 ===============
