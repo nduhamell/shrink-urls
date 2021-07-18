@@ -41,7 +41,7 @@ Requirements
 
 Preview
 ========
-Working Link Shortener: https://nate.pro
+Working Link Shortener: https://files.nateduhamell.com/test/shrink-urls-master/
 
 License
 ==========
